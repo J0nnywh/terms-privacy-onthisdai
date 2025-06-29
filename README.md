@@ -1,2 +1,2 @@
 # terms-privacy-onthisdai
-Hosting terms and policy for TikTok app
+Hosting terms and policy for TikTok app - OnThisDai account
